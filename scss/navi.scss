@@ -1,0 +1,16 @@
+.navi {
+    height: 60px;
+    width: 100%;
+    max-width: 1480px;
+    background-color: #1A1C18;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    a {
+        color: #DDDEDA;
+        text-decoration: none;
+        font-weight: bolder;
+    }
+
+}

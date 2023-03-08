@@ -4,9 +4,10 @@
     box-sizing: border-box;
 }
 html,
-body {
+body,
+footer {
     height: 100%;
-    font-family: sans-serif;
+    font-family: 'font_condensed', 'Arial Narrow', Arial, sans-serif;
 }
 h1,
 h2,

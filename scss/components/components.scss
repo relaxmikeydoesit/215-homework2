@@ -1,9 +1,11 @@
 .dispatch-event {
     width: 174px;
+    height: 180px;
 
     .date-time {
         text-transform: uppercase;
-        color: #888;
+        color: #848581;
+        font-weight: bolder;
         font-size: 10px;
         margin-bottom: 6px;
     }
@@ -21,8 +23,10 @@
 
         .title {
             h5 {
-                font-size: 8px;
+                font-size: 14px;
                 margin-bottom: 4px;
+                text-transform: uppercase;
+                // WEBSITE STATES GOTHAM AS FONT
 
             }
         } 
